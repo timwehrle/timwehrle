@@ -1,4 +1,4 @@
-<img src="./giphy.gif" />
+<img src="./giphy.gif" width="500" height="500" />
 
 <h3 align="center">Find me here:</h3>
 <p align="center">
