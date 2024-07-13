@@ -1,3 +1,5 @@
+<img src="./giphy.gif" />
+
 <h3 align="center">Find me here:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/timwhrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timwhrl" height="30" width="40" /></a>
